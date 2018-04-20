@@ -1,7 +1,7 @@
 {
-  "name": "grupo-corpo",
+  "name": "workflow",
   "version": "1.0.0",
-  "description": "Grupo Corpo",
+  "description": "Workflow ReactJs",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --progress --colors --inline --hot --mode development",
@@ -13,7 +13,7 @@
     "url": "git@git.lapisraro.com.br:/var/repositories/sites_portais/grupo-corpo/ws-0002-17-site.git"
   },
   "keywords": [],
-  "author": "Natalia Avila, Thiago Schetti",
+  "author": "Natalia Avila",
   "license": "ISC",
   "devDependencies": {
     "axios": "^0.15.3",
